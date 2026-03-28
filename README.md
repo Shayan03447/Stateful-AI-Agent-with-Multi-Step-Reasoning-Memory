@@ -1,4 +1,4 @@
-# LangGraph Conversational Agent with Memory – Streamlit UI
+# Stateful AI Agent with Multi-Step Reasoning & Memory
 
 A **stateful conversational AI agent** built with **LangGraph**, capable of remembering conversation history and executing structured workflows. This project includes a **Streamlit-based UI** for interactive chats and showcases **production-ready Agentic AI capabilities**.
 
